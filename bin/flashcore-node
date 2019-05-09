@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var flashcore = require('../lib/cli/bitcore');
+flashcore();
